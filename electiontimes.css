@@ -1,0 +1,29 @@
+body {
+	background-color: #f4f4f4;
+	color: #555;
+	font-family: Arial;
+	font-size: 16px;
+	line-height: 1.6em;
+	margin: 0;
+	text-align: center;
+}
+
+input[type=date], input[type=time] {
+  width: 75%;
+  padding: 12px 20px;
+  margin: 5px 0;
+  display: inline-block;
+  border: 1px solid #ccc;
+  box-sizing:border-box;
+  text-align: center;
+}
+
+input[type=submit] {
+  background-color: #7A1712;
+  color: white;
+  padding: 14px 20px;
+  margin: 8px 0;
+  border: none;
+  cursor: pointer;
+  width: 10%;
+}

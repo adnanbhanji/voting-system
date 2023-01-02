@@ -1,0 +1,32 @@
+.boxuno {
+  background-color: lightgrey;
+  width: 450px;
+  border: 15px solid lightblue;
+  padding: 50px;
+  margin: 20px;
+  float: left
+}
+
+.img1{
+	float: right;
+	margin-right:100px;
+}
+
+.img2 {
+	float: right;
+	margin-right:100px;
+}
+
+.img3 {
+  float: left;
+}
+
+.img4 {
+  float: right;
+  margin-right: 2px;
+}
+
+.img5 {
+  float: right;
+  margin-right:45px;
+}
